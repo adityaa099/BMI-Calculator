@@ -34,15 +34,16 @@ BMI = weight (kg) / (height × height)
 2. Open the project folder.
 3. Open index.html in any modern browser.
 
----Project Structure
-BMI-Calculator/
-│
-├── index.html     # Structure of the app
-├── style.css      # Styling and layout
-├── script.js      # BMI calculation logic
-└── README.md
+---
+Project Structure
+
+index.html     # Structure of the app
+style.css      # Styling and layout
+script.js      # BMI calculation logic
+README.md
 
 
 👤 Author
+
 Aditya Chouksey
 
