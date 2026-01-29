@@ -38,8 +38,11 @@ BMI = weight (kg) / (height × height)
 Project Structure
 
 index.html     # Structure of the app
+
 style.css      # Styling and layout
+
 script.js      # BMI calculation logic
+
 README.md
 
 
