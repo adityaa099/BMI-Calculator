@@ -1,0 +1,121 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card{
+    background: linear-gradient(135deg, #11998e, #38ef7d);
+    border-radius: 20px;
+    height: 420px;
+    width: 400px;
+    padding: 10px;
+}
+
+#heading-1{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 28px;
+}
+
+.first-input{
+    margin: 25px;
+    margin-bottom: 15px;
+    
+}
+
+.first-input label p{
+    text-align: center;
+    font-size: 20px;
+    font-weight: 500;
+    margin: 10px;
+}
+
+.first-input input{
+    display: flex;
+    justify-self: center;
+    height: 35px;
+    width: 250px;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+.second-input{
+    margin: 15px;
+}
+
+.second-input label p{
+    text-align: center;
+    font-size: 20px;
+    font-weight: 500;
+    margin: 10px;
+}
+
+
+.second-input input{
+    display: flex;
+    justify-self: center;
+    height: 35px;
+    width: 250px;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+
+.third-input{
+    margin: 15px;
+
+}
+
+.third-input label p{
+    text-align: center;
+    font-size: 20px;
+    font-weight: 500;
+    margin: 10px;
+}
+
+
+.third-input select{
+    display: flex;
+    justify-self: center;
+    height: 35px;
+    width: 250px;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+#btn{
+    display: flex;
+    justify-self: center;
+    height: 30px;
+    width: 120px;
+    justify-content: center;
+    align-items: center;
+    padding: 2px;
+    border: 0px;
+    border-radius: 5px; 
+    background-color: rgb(37, 215, 37);
+    color: white;
+    font-weight: bold;  
+    cursor: pointer; 
+}
+
+#last-heading{
+    text-align: center;
+    margin-top: 15px;
+    font-size: 18px;
+    
+}
+#result{
+    text-align: center;
+    font-size: 25px;
+    margin-top: 5px;
+    font-weight: bolder;
+}
